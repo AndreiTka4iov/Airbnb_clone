@@ -99,7 +99,7 @@ const RegisterModal = () => {
                 outline
                 label='Continue whith Github'
                 icon={AiFillGithub}
-                onClick={() =>signIn('github')}
+                onClick={() => {}}
             />
             <div className='
                 text-neutral-500
